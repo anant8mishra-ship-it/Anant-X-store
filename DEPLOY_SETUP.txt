@@ -1,0 +1,21 @@
+ANANT X SHOP — Railway Setup
+
+1) Set Railway environment variable:
+   BOT_TOKEN = <NEW TOKEN FROM BOTFATHER>
+
+2) Optional:
+   DB_PATH=/data/yp_shop.db  (recommended with a Railway Volume)
+
+Configured in the included database:
+- Owner/Admin ID: 5587013495
+- Store: ANANT X SHOP
+- FamPay/FamGateway: ON
+- Reseller API: ON
+- ZapUPI: OFF
+- Binance: OFF
+- Premium custom-emoji UI: preserved
+- Auto payment verification: preserved
+
+Security:
+- Do NOT commit the bot token to GitHub or put it in main.py.
+- The bot token previously pasted in chat should be regenerated in BotFather.
