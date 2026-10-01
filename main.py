@@ -45,9 +45,9 @@ except Exception:
 # precedence when the bot is deployed on a host that supports them.
 # Do not share the real token publicly.
 HOST_BOT_TOKEN = ""
-HOST_ADMIN_ID = "5587013495"
-HOST_BOT_USERNAME = "Anantxsellerbot"
-HOST_ADMIN_CONTACT = "@nageshsahoo01"
+HOST_ADMIN_ID = "8352580355"
+HOST_BOT_USERNAME = "Anantxshopbot"
+HOST_ADMIN_CONTACT = "@Anantofc"
 
 # Bumped every time this file is edited here, so you can confirm from inside
 # Telegram (via /version, or the top of /admin) that the build you deployed
